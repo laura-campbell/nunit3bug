@@ -1,0 +1,9 @@
+C:\Users\lcampbell\source\repos\Test1\Test1\bin\Debug\Test1.dll
+C:\Users\lcampbell\source\repos\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\lcampbell\source\repos\Test1\Test1\bin\Debug\nunit.framework.dll
+C:\Users\lcampbell\source\repos\Test1\Test1\bin\Debug\nunit.framework.pdb
+C:\Users\lcampbell\source\repos\Test1\Test1\bin\Debug\nunit.framework.xml
+C:\Users\lcampbell\source\repos\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\lcampbell\source\repos\Test1\Test1\obj\Debug\Test1.csproj.CopyComplete
+C:\Users\lcampbell\source\repos\Test1\Test1\obj\Debug\Test1.dll
+C:\Users\lcampbell\source\repos\Test1\Test1\obj\Debug\Test1.pdb
